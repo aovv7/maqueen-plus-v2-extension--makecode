@@ -11,7 +11,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "Maqueen Plus V2-Line Patrol.json"
+        "Maqueen Plus V2-Line Patrol.json",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
