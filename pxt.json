@@ -1,0 +1,27 @@
+{
+    "name": "Maqueen Plus V2 extension | makecode",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "Maqueen Plus V2-Line Patrol": "pkg:Maqueen Plus V2-Line Patrol.json"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "Maqueen Plus V2-Line Patrol.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.0.18",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
